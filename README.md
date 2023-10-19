@@ -1,0 +1,1 @@
+Je suis un readme, content d'exister. (création pour manier git / github)

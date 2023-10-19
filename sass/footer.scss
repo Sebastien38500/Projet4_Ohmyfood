@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Shrikhand&display=swap");
+.footer {
+    background-color: #464646;
+    color: white;
+    padding: 10px 0 40px 20px;
+  }
+  
+  .footer h1 {
+    font-family: "Shrikhand", sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+  }
+  
+  .footer ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .footer ul li {
+    margin-bottom: 5px;
+  }
+  
+  .footer ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+  }
+  
+  .footer ul li a i {
+    width: 25px;
+    font-size: 12px;
+  }

@@ -1,0 +1,20 @@
+.header {
+  text-align: center;
+  padding: 20px 0 10px 0;
+  position: relative;
+}
+
+.header__logo img {
+  width: 150px;
+}
+
+.header__return {
+  position: absolute;
+  left: 5%;
+  top: 40%;
+}
+
+.header__return i {
+  transform: scale(1.5);
+  color: black;
+}/*# sourceMappingURL=header.css.map */
